@@ -2,6 +2,7 @@
 
 #1 Solicita ao usuario que digite seu nome
 # Usuario pode inserir o nomer não válido utilizando numeros ou simbolos ou vazio
+
 try:
     nome = input("Digite seu nome aqui: ") 
 
